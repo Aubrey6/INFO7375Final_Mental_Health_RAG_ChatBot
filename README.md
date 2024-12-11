@@ -1,5 +1,7 @@
 ## Mental Health Chatbot
 [![License](https://img.shields.io/badge/license-Apache%202-blue)](LICENSE)
+[Project Report](https://github.com/Aubrey6/INFO7375Final_Mental_Health_RAG_ChatBot/blob/main/Final%20Project%20Doc.pdf)
+
 ### Overview
 This project provides a document-based question-answering system that uses OpenAI embeddings and FAISS for efficient document retrieval and answer generation. The system is designed to:
 
