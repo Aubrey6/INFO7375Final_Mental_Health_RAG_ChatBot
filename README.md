@@ -2,6 +2,7 @@
 [![License](https://img.shields.io/badge/license-Apache%202-blue)](LICENSE)
 
 [Document](https://github.com/Aubrey6/INFO7375Final_Mental_Health_RAG_ChatBot/blob/main/Final%20Project%20Doc.pdf)
+
 [Video](https://youtu.be/4nFkjlUvFRU)
 
 ### Overview
